@@ -17,9 +17,7 @@ Projeto desenvolvido por **Danivan**, com o objetivo de praticar Python e criar 
 
 ## 📦 Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/conversor-moedas.git
+
 -------------------------------------------------------------
 2- Instale as dependências:
 
