@@ -17,6 +17,7 @@ Projeto desenvolvido por **Danivan**, com o objetivo de praticar Python e criar 
 
 ## 📦 Como executar
 
+Você precisa ter alguma versão do Python instala em seu micro! 
 
 -------------------------------------------------------------
 2- Instale as dependências:
